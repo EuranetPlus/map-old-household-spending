@@ -1,13 +1,11 @@
 {
-  "title": "Mitkä EU-maat tarjoavat parhaat työllisyysnäkymät?",
-  "subtitle": "Näissä maissa tulevaisuudessa työllisyyden kasvun arvioidaan olevan 5,6 % vuosina 2022-2035.",
-  "textNoteDescription": "Huom",
-  "textNote": "sdchdc",
+  "title": "Kuluttavatko ikääntyneet kotitaloudet enemmän rahaa henkeä kohden EU:ssa?",
+  "subtitle": "EU:ssa kotitaloudet, joiden perheenpää on 60-vuotias tai vanhempi, käyttivät 35,1 prosenttia enemmän rahaa henkeä kohden kuin alle 45-vuotiaan perheenpään kotitaloudet vuonna 2020, kun vuonna 2015 vastaava luku oli 34,2 prosenttia enemmän.",
+  "textNoteDescription": "Huomautus",
+  "textNote": "Kotitaloudet on ryhmitelty vertailuhenkilön iän mukaan. Henkeä kohden laskettu kulutus sisältää kaikki kotitalouden jäsenet. Positiiviset arvot tarkoittavat, että vanhemmat kotitaloudet käyttivät enemmän rahaa henkilöä kohden kuin nuoremmat kotitaloudet samassa maassa. Negatiiviset arvot tarkoittavat, että he käyttivät vähemmän rahaa.",
   "textSourceDescription": "Lähde",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Käytä tietoja",
-  "extraInfo_DE": "Saksa nopeuttaa uusiutuvan energian käyttöönottoa ja tavoittelee 80 % puhdasta sähköä vuoteen 2030 mennessä",
-  "extraInfo_FR": "Ranskan parlamentti hyväksyi suuren maahanmuuttouudistuksen valtakunnallisten mielenosoitusten keskellä",
-  "legend1": "Tietoja ei ole saatavilla",
+  "legend1": "Ei tietoja saatavilla",
   "tooltipExtraInfoLabel": "Klikkaa tästä"
 }
