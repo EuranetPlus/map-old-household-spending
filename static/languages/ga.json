@@ -1,13 +1,11 @@
 {
-  "title": "Cé na tíortha san AE a thairgeann na hionchais fostaíochta is fearr?",
-  "subtitle": "Meastar gur 5.6% an fás fostaíochta amach anseo sna tíortha seo in 2022-2035.",
+  "title": "An gcaitheann teaghlaigh scothaosta níos mó in aghaidh an duine san AE?",
+  "subtitle": "Chaith teaghlaigh san AE faoi cheannas duine 60 bliain d'aois nó níos sine 35.1% níos mó in aghaidh an duine ná iad siúd faoi cheannas duine faoi bhun 45 bliain d'aois in 2020, suas ó 34.2% níos mó in 2015.",
   "textNoteDescription": "Nóta",
-  "textNote": "sdchdc",
+  "textNote": "Déantar teaghlaigh a ghrúpáil de réir aois a nduine tagartha. Áirítear leis an gcaiteachas in aghaidh an duine gach ball den teaghlach. Ciallaíonn luachanna dearfacha gur chaith teaghlaigh níos sine níos mó in aghaidh an duine ná teaghlaigh níos óige sa tír chéanna. Ciallaíonn luachanna diúltacha gur chaith siad níos lú.",
   "textSourceDescription": "Foinse",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Faigh rochtain ar na sonraí",
-  "extraInfo_DE": "Luathaíonn an Ghearmáin Rolladh Amach Fuinnimh In-athnuaite, Dírítear 80% ar Chumhacht Ghlan faoi 2030",
-  "extraInfo_FR": "Formheasann Parlaimint na Fraince Bille um Athchóiriú an Mhór-Imirce i measc Agóidí ar fud na tíre",
+  "textSource": "Eurostat (2026)",
+  "linkDataAccessDescription": "Rochtain ar na sonraí",
   "legend1": "Níl aon sonraí ar fáil",
   "tooltipExtraInfoLabel": "Cliceáil anseo"
 }
