@@ -1,13 +1,11 @@
 {
-  "title": "Quels pays de l’UE offrent les meilleures perspectives d’emploi ?",
-  "subtitle": "La croissance future de l’emploi dans ces pays en 2022-2035 est estimée à 5,6 %.",
+  "title": "Les ménages plus âgés dépensent-ils plus par personne dans l'UE ?",
+  "subtitle": "En 2020, les ménages de l'UE dirigés par une personne âgée de 60 ans ou plus ont dépensé 35,1 % de plus par personne que ceux dirigés par une personne de moins de 45 ans, contre 34,2 % de plus en 2015.",
   "textNoteDescription": "Note",
-  "textNote": "sdchdc",
+  "textNote": "Les ménages sont regroupés selon l'âge de leur personne de référence. Les dépenses par personne incluent tous les membres du ménage. Les valeurs positives indiquent que les ménages plus âgés ont dépensé plus par personne que les ménages plus jeunes du même pays. Les valeurs négatives indiquent qu'ils ont dépensé moins.",
   "textSourceDescription": "Source",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Accéder aux données",
-  "extraInfo_DE": "L'Allemagne accélère le déploiement des énergies renouvelables et vise 80 % d'énergie propre d'ici 2030",
-  "extraInfo_FR": "Le Parlement français approuve un important projet de loi sur la réforme de l'immigration au milieu de manifestations à l'échelle nationale",
   "legend1": "Aucune donnée disponible",
   "tooltipExtraInfoLabel": "Cliquez ici"
 }
