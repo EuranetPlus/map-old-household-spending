@@ -1,13 +1,11 @@
 {
-  "title": "Kurios ES šalys siūlo geriausias įsidarbinimo perspektyvas?",
-  "subtitle": "Skaičiuojama, kad būsimas užimtumo augimas šiose šalyse 2022–2035 m. sieks 5,6 proc.",
+  "title": "Ar vyresnio amžiaus namų ūkiai ES išleidžia daugiau vienam asmeniui?",
+  "subtitle": "2020 m. ES namų ūkiai, kuriems vadovavo 60 metų ar vyresni asmenys, vienam asmeniui išleido 35,1 % daugiau nei tie, kuriems vadovavo jaunesni nei 45 metų asmenys, palyginti su 34,2 % daugiau 2015 m.",
   "textNoteDescription": "Pastaba",
-  "textNote": "sdchdc",
+  "textNote": "Namų ūkiai grupuojami pagal tiriamojo asmens amžių. Išlaidos vienam asmeniui apima visus namų ūkio narius. Teigiamos vertės reiškia, kad vyresni namų ūkiai vienam asmeniui išleido daugiau nei jaunesni namų ūkiai toje pačioje šalyje. Neigiamos vertės reiškia, kad jie išleido mažiau.",
   "textSourceDescription": "Šaltinis",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Pasiekite duomenis",
-  "extraInfo_DE": "Vokietija paspartina atsinaujinančios energijos diegimą ir siekia 80 % švarios energijos iki 2030 m.",
-  "extraInfo_FR": "Prancūzijos parlamentas, kilus protestams visoje šalyje, patvirtino pagrindinį imigracijos reformos įstatymo projektą",
+  "textSource": "Eurostatas (2026 m.)",
+  "linkDataAccessDescription": "Prieiga prie duomenų",
   "legend1": "Nėra duomenų",
-  "tooltipExtraInfoLabel": "Spauskite čia"
+  "tooltipExtraInfoLabel": "Spustelėkite čia"
 }
