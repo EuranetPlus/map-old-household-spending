@@ -1,13 +1,11 @@
 {
-  "title": "Które kraje UE oferują najlepsze perspektywy zatrudnienia?",
-  "subtitle": "Szacuje się, że przyszły wzrost zatrudnienia w tych krajach w latach 2022–2035 wyniesie 5,6%.",
+  "title": "Czy starsze gospodarstwa domowe w UE wydają więcej na osobę?",
+  "subtitle": "Gospodarstwa domowe w UE, na których czele stała osoba w wieku 60 lat i starsza, wydały w 2020 r. o 35,1% więcej na osobę niż gospodarstwa, na których czele stała osoba poniżej 45. roku życia, podczas gdy w 2015 r. wydatki te były o 34,2% wyższe.",
   "textNoteDescription": "Notatka",
-  "textNote": "sdchdc",
+  "textNote": "Gospodarstwa domowe są grupowane według wieku osoby, do której się odnoszą. Wydatki na osobę obejmują wszystkich członków gospodarstwa domowego. Wartości dodatnie oznaczają, że starsze gospodarstwa domowe wydawały więcej na osobę niż młodsze gospodarstwa domowe w tym samym kraju. Wartości ujemne oznaczają, że wydawały mniej.",
   "textSourceDescription": "Źródło",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Uzyskaj dostęp do danych",
-  "extraInfo_DE": "Niemcy przyspieszają wdrażanie energii odnawialnej, dążąc do 80% czystej energii do 2030 r.",
-  "extraInfo_FR": "Parlament francuski zatwierdza projekt ustawy o dużej reformie imigracyjnej w obliczu ogólnokrajowych protestów",
+  "textSource": "Eurostat (2026)",
+  "linkDataAccessDescription": "Dostęp do danych",
   "legend1": "Brak dostępnych danych",
   "tooltipExtraInfoLabel": "Kliknij tutaj"
 }
