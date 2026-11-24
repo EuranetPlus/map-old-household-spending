@@ -1,13 +1,11 @@
 {
-  "title": "Mely uniós országok kínálják a legjobb foglalkoztatási kilátásokat?",
-  "subtitle": "A foglalkoztatás jövőbeni növekedése ezekben az országokban 2022 és 2035 között 5,6%-ra becsülhető.",
+  "title": "Az idősebb háztartások többet költenek fejenként az EU-ban?",
+  "subtitle": "Az EU-ban a 60 éves vagy annál idősebb személyek által vezetett háztartások 2020-ban fejenként 35,1%-kal többet költöttek, mint a 45 év alattiak által vezetett háztartások, szemben a 2015-ös 34,2%-os többel.",
   "textNoteDescription": "Jegyzet",
-  "textNote": "sdchdc",
+  "textNote": "A háztartásokat a referenciaszemélyük életkora szerint csoportosítják. Az egy főre jutó kiadások magukban foglalják az összes háztartástagot. A pozitív értékek azt jelentik, hogy az idősebb háztartások többet költöttek fejenként, mint a fiatalabb háztartások ugyanabban az országban. A negatív értékek azt jelentik, hogy kevesebbet költöttek.",
   "textSourceDescription": "Forrás",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Hozzáférés az adatokhoz",
-  "extraInfo_DE": "Németország felgyorsítja a megújuló energia elterjedését, és 2030-ra a 80%-os tiszta energia elérését tűzi ki célul",
-  "extraInfo_FR": "A francia parlament országos tiltakozások közepette jóváhagyta a jelentős bevándorlási reformról szóló törvényjavaslatot",
-  "legend1": "Nincs adat",
+  "legend1": "Nincsenek elérhető adatok",
   "tooltipExtraInfoLabel": "Kattintson ide"
 }
