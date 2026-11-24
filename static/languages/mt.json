@@ -1,13 +1,11 @@
 {
-  "title": "Liema pajjiżi tal-UE joffru l-aħjar prospetti ta' impjieg?",
-  "subtitle": "It-tkabbir futur fl-impjiegi f'dawn il-pajjiżi fl-2022-2035 huwa stmat għal 5.6%.",
+  "title": "Il-familji anzjani jonfqu aktar għal kull persuna fl-UE?",
+  "subtitle": "Fl-2020, il-familji tal-UE mmexxija minn xi ħadd ta’ 60 sena jew aktar nefqu 35.1% aktar għal kull persuna minn dawk immexxija minn xi ħadd taħt il-45 sena, żieda minn 34.2% aktar fl-2015.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Il-familji huma miġbura skont l-età tal-persuna ta’ referenza tagħhom. L-infiq għal kull persuna jinkludi l-membri kollha tal-familja. Valuri pożittivi jfissru li l-familji akbar fl-età nefqu aktar għal kull persuna mill-familji iżgħar fl-istess pajjiż. Valuri negattivi jfissru li nefqu inqas",
   "textSourceDescription": "Sors",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Aċċessa għad-data",
-  "extraInfo_DE": "Il-Ġermanja Tħaffef il-Ħruġ tal-Enerġija Rinnovabbli, Timmira 80% Enerġija Nadifa sal-2030",
-  "extraInfo_FR": "Il-Parlament Franċiż Japprova Abbozz ta' Liġi ta' Riforma Maġġuri fl-Immigrazzjoni Fost Protesti Nazzjonali",
+  "textSource": "L-Eurostat (2026)",
+  "linkDataAccessDescription": "Aċċessa d-dejta",
   "legend1": "L-ebda dejta disponibbli",
   "tooltipExtraInfoLabel": "Ikklikkja hawn"
 }
