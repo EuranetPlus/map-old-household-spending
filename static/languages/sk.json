@@ -1,13 +1,11 @@
 {
-  "title": "Ktoré krajiny EÚ ponúkajú najlepšie vyhliadky na zamestnanie?",
-  "subtitle": "Budúci rast zamestnanosti v týchto krajinách v rokoch 2022-2035 sa odhaduje na 5,6 %.",
+  "title": "Míňajú staršie domácnosti v EÚ viac na osobu?",
+  "subtitle": "Domácnosti v EÚ, na čele ktorých je osoba vo veku 60 a viac rokov, minuli v roku 2020 o 35,1 % viac na osobu ako domácnosti, na čele ktorých je osoba mladšia ako 45 rokov, čo je nárast oproti 34,2 % v roku 2015.",
   "textNoteDescription": "Poznámka",
-  "textNote": "sdchdc",
+  "textNote": "Domácnosti sú zoskupené podľa veku ich referenčnej osoby. Výdavky na osobu zahŕňajú všetkých členov domácnosti. Kladné hodnoty znamenajú, že staršie domácnosti minuli na osobu viac ako mladšie domácnosti v tej istej krajine. Záporné hodnoty znamenajú, že minuli menej.",
   "textSourceDescription": "Zdroj",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Prístup k údajom",
-  "extraInfo_DE": "Nemecko urýchľuje zavádzanie energie z obnoviteľných zdrojov a do roku 2030 má za cieľ dosiahnuť 80 % čistej energie",
-  "extraInfo_FR": "Francúzsky parlament počas celonárodných protestov schválil návrh zákona o veľkej imigračnej reforme",
   "legend1": "Nie sú k dispozícii žiadne údaje",
   "tooltipExtraInfoLabel": "Kliknite sem"
 }
