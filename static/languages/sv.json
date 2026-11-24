@@ -1,13 +1,11 @@
 {
-  "title": "Vilka EU-länder erbjuder de bästa sysselsättningsmöjligheterna?",
-  "subtitle": "Framtida sysselsättningstillväxt i dessa länder 2022-2035 beräknas till 5,6 %.",
+  "title": "Spenderar äldre hushåll mer per person i EU?",
+  "subtitle": "EU-hushåll med någon som är 60 år eller äldre spenderade 35,1 % mer per person än de som leds av någon under 45 år år 2020, en ökning från 34,2 % mer år 2015.",
   "textNoteDescription": "Notera",
-  "textNote": "sdchdc",
+  "textNote": "Hushållen grupperas efter referenspersonens ålder. Utgifter per person inkluderar alla hushållsmedlemmar. Positiva värden innebär att äldre hushåll spenderade mer per person än yngre hushåll i samma land. Negativa värden innebär att de spenderade mindre.",
   "textSourceDescription": "Källa",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Få åtkomst till data",
-  "extraInfo_DE": "Tyskland accelererar utbyggnaden av förnybar energi, siktar på 80 % ren kraft till 2030",
-  "extraInfo_FR": "Det franska parlamentet godkänner lagförslaget om stora invandringsreformer under rikstäckande protester",
+  "textSource": "Eurostat (2026)",
+  "linkDataAccessDescription": "Åtkomst till data",
   "legend1": "Inga data tillgängliga",
   "tooltipExtraInfoLabel": "Klicka här"
 }
