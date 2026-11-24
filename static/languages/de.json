@@ -1,13 +1,11 @@
 {
-  "title": "Welche EU-Länder bieten die besten Beschäftigungsaussichten?",
-  "subtitle": "Das künftige Beschäftigungswachstum in diesen Ländern im Zeitraum 2022–2035 wird auf 5,6 % geschätzt.",
+  "title": "Geben ältere Haushalte in der EU mehr pro Person aus?",
+  "subtitle": "In EU-Haushalten, deren Haushaltsvorstand 60 Jahre oder älter war, waren die Ausgaben pro Person im Jahr 2020 um 35,1 % höher als in Haushalten, deren Haushaltsvorstand unter 45 Jahre alt war; im Jahr 2015 lag der Unterschied bei 34,2 %.",
   "textNoteDescription": "Notiz",
-  "textNote": "sdchdc",
+  "textNote": "Die Haushalte werden nach dem Alter ihrer Bezugsperson gruppiert. Die Ausgaben pro Person umfassen alle Haushaltsmitglieder. Positive Werte bedeuten, dass ältere Haushalte im selben Land pro Person mehr ausgaben als jüngere. Negative Werte bedeuten, dass sie weniger ausgaben.",
   "textSourceDescription": "Quelle",
-  "textSource": "Abonnieren",
-  "linkDataAccessDescription": "Zugriff auf die Daten",
-  "extraInfo_DE": "Deutschland beschleunigt Ausbau erneuerbarer Energien und strebt bis 2030 80 % sauberen Stromanteil an",
-  "extraInfo_FR": "Französisches Parlament verabschiedet inmitten landesweiter Proteste ein umfassendes Gesetz zur Einwanderungsreform",
+  "textSource": "Eurostat (2026)",
+  "linkDataAccessDescription": "Greifen Sie auf die Daten zu.",
   "legend1": "Keine Daten verfügbar",
   "tooltipExtraInfoLabel": "klicken Sie hier"
 }
