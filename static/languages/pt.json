@@ -1,13 +1,11 @@
 {
-  "title": "Quais países da UE oferecem as melhores perspectivas de emprego?",
-  "subtitle": "O crescimento futuro do emprego nesses países entre 2022 e 2035 é estimado em 5,6%.",
+  "title": "As famílias com idosos gastam mais por pessoa na UE?",
+  "subtitle": "Em 2020, as famílias da UE chefiadas por pessoas com 60 anos ou mais gastaram 35,1% a mais por pessoa do que as chefiadas por pessoas com menos de 45 anos, um aumento em relação aos 34,2% registados em 2015.",
   "textNoteDescription": "Observação",
-  "textNote": "SDCHDC",
+  "textNote": "Os agregados familiares são agrupados pela idade da pessoa de referência. O gasto por pessoa inclui todos os membros do agregado familiar. Valores positivos significam que os agregados familiares com membros mais velhos gastaram mais por pessoa do que os agregados familiares com membros mais jovens no mesmo país. Valores negativos significam que gastaram menos.",
   "textSourceDescription": "Fonte",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Acesse os dados",
-  "extraInfo_DE": "Alemanha acelera implementação de energia renovável e tem como meta 80% de energia limpa até 2030",
-  "extraInfo_FR": "Parlamento francês aprova importante projeto de lei de reforma da imigração em meio a protestos em todo o país",
-  "legend1": "Não há dados disponíveis",
+  "legend1": "Não há dados disponíveis.",
   "tooltipExtraInfoLabel": "Clique aqui"
 }
