@@ -1,13 +1,11 @@
 {
-  "title": "Koje zemlje EU-a nude najbolje izglede za zapošljavanje?",
-  "subtitle": "Budući rast zaposlenosti u tim zemljama u razdoblju 2022. – 2035. procjenjuje se na 5,6%.",
+  "title": "Troše li starija kućanstva više po osobi u EU?",
+  "subtitle": "Kućanstva u EU-u na čelu s osobom u dobi od 60 ili više godina trošila su 35,1% više po osobi od onih na čelu s osobom mlađom od 45 godina u 2020. godini, u odnosu na 34,2% više u 2015. godini.",
   "textNoteDescription": "Bilješka",
-  "textNote": "sdchdc",
+  "textNote": "Kućanstva su grupirana prema dobi referentne osobe. Potrošnja po osobi uključuje sve članove kućanstva. Pozitivne vrijednosti znače da su starija kućanstva trošila više po osobi od mlađih kućanstava u istoj zemlji. Negativne vrijednosti znače da su trošila manje.",
   "textSourceDescription": "Izvor",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Pristupite podacima",
-  "extraInfo_DE": "Njemačka ubrzava uvođenje obnovljive energije, cilj je 80% čiste energije do 2030.",
-  "extraInfo_FR": "Francuski parlament odobrio veliki nacrt zakona o useljeničkoj reformi usred prosvjeda diljem zemlje",
+  "textSource": "Eurostat (2026.)",
+  "linkDataAccessDescription": "Pristup podacima",
   "legend1": "Nema dostupnih podataka",
   "tooltipExtraInfoLabel": "Kliknite ovdje"
 }
