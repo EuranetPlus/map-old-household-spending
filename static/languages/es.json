@@ -1,13 +1,11 @@
 {
-  "title": "¿Qué países de la UE ofrecen las mejores perspectivas de empleo?",
-  "subtitle": "Se estima que el crecimiento futuro del empleo en estos países en el período 2022-2035 será del 5,6%.",
+  "title": "¿Los hogares de personas mayores gastan más por persona en la UE?",
+  "subtitle": "En 2020, los hogares de la UE encabezados por una persona de 60 años o más gastaron un 35,1 % más por persona que aquellos encabezados por alguien menor de 45 años, frente al 34,2 % más en 2015.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Los hogares se agrupan según la edad de su persona de referencia. El gasto por persona incluye a todos los miembros del hogar. Los valores positivos indican que los hogares de mayor edad gastaron más por persona que los hogares más jóvenes del mismo país. Los valores negativos indican que gastaron menos.",
   "textSourceDescription": "Fuente",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Acceder a los datos",
-  "extraInfo_DE": "Alemania acelera el despliegue de energía renovable y aspira a que el 80 % de su energía sea limpia en 2030",
-  "extraInfo_FR": "El Parlamento francés aprueba un importante proyecto de ley de reforma migratoria en medio de protestas a nivel nacional",
   "legend1": "No hay datos disponibles",
   "tooltipExtraInfoLabel": "haga clic aquí"
 }
